@@ -88,6 +88,10 @@ $ git pull origin master
 # `git clone` : github의 repository 그대로 복사
 
 - github에서 repository자체를 그대로 복사하는 명령어 
+- 자동으로 `git int` 설정 완료 
+- 그러나!! repository 접근성에 따라 권한이 다르다.
+  - 접근 허용된 repository이면 허용된 주소로 push $ pull 가능
+  - 접근 허용되지 않으면 pull만 가능
 
 ```bash
 $ git clone "URL주소"

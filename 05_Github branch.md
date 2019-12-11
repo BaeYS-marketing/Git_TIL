@@ -47,6 +47,10 @@ $ git commit --amend
 
   커밋들의 역사  : add + commit -m
 
+  > `git status`는 **커밋되기 전**의 상태를 확인해 주고
+  >
+  > `git log`는 **커밋된** 파일들의 상태를 확인해 준다. 
+
 
 
 - `git dff`

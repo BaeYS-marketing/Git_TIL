@@ -98,6 +98,16 @@
 
 
 
+# localhost 
+
+**localhost**는 컴퓨터 네트워크에서 사용하는 [루프백](https://ko.wikipedia.org/wiki/루프백) [호스트명](https://ko.wikipedia.org/wiki/호스트명)으로, 자신의 컴퓨터를 의미한다. [IPv4](https://ko.wikipedia.org/wiki/IPv4)에서의 [IP 주소](https://ko.wikipedia.org/wiki/IP_주소)는 **127.0.0.1**[[1\]](https://ko.wikipedia.org/wiki/Localhost#cite_note-1)이며, [IPv6](https://ko.wikipedia.org/wiki/IPv6)에서는 **::1**(0:0:0:0:0:0:0:1의 약자)[[2\]](https://ko.wikipedia.org/wiki/Localhost#cite_note-2)로 변환된다.
+
+로컬 컴퓨터를 원격 컴퓨터인것 처럼 통신할 수 있어 테스트 목적으로 주로 사용된다.
+
+
+
+
+
 ### 참고
 
 - 아스키코드로 변환해주는 사이트! : http://artii.herokuapp.com/

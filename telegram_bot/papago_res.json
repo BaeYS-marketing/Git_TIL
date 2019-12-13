@@ -1,0 +1,18 @@
+안녕하세요 파싱 
+{
+    "message": {
+        "@type": "response",
+        "@service": "naverservice.nmt.proxy",
+        "@version": "1.0.0",
+        "result": {
+            "srcLangType": "en",
+            "tarLangType": "ko",
+            "translatedText": "안녕하세요."
+        }
+    }
+}
+
+
+
+파일주소 : print(file_url)
+https://api.telegram.org/bot937766371:AAFQGm4j3KeFk_8B2lz_6P3RxA26rH4EFgE/file/bot937766371:AAFQGm4j3KeFk_8B2lz_6P3RxA26rH4EFgE/photos/file_0.jpg

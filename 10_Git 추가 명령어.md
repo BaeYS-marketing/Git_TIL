@@ -57,6 +57,6 @@ $ git remote rename <파일명> <바꿀파일명>
 $ git remote rm <리모트저장소>
 ```
 
-## `git push -f origin master`
->failed to push some refs to~,Updates were rejected because the remote contains work that you do not have locally 에러해결
-
+## `git push -f origin master` : 기존 레퍼지토리 초기화 후 psuh 
+>failed to push some refs to~,Updates were rejected because the remote contains work that you do not have locally 
+- 해결방법 : pull&psuh
